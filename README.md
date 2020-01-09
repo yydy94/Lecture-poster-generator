@@ -10,7 +10,7 @@ Lecture posters are often used to promote a lecture. They can provide the inform
     <br>
    
 </center>
-Yuncong Liu           Haoyu Ling           Luoxuan Li
+Yuncong Liu          Haoyu Ling          Luoxuan Li
 
 ### Code
 
