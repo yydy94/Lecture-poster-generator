@@ -3,9 +3,9 @@ Lecture posters are often used to promote a lecture. They can provide the inform
 
 ### Author
 
-<figure class="half">
+<center class="half">
     <img src="lyc.jpeg" width="200"/>
-</figure>
+</center>
 
 ![lyc](lyc.jpeg "Yuncong Liu")![lhy](lhy.jpeg "Haoyu Ling")![llx](llx.jpeg "Luoxuan Li")
 ### Code
