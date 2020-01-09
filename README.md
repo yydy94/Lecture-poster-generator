@@ -13,7 +13,7 @@ Lecture posters are often used to promote a lecture. They can provide the inform
 ### Code
 Our source code is available on [Github](https://github.com/yydy94/Lecture-poster-generator).
 ### Paper
-
+Our paper is available [here](https://github.com/yydy94/Lecture-poster-generator/blob/gh-pages/A_Lecture_Poster_Generator.pdf).
 ### Video
 
 ### Dataset
