@@ -1,8 +1,5 @@
 ### Abstract
-
-You can use the [editor on GitHub](https://github.com/yydy94/Lecture-poster-generator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lecture posters are often used to promote a lecture. They can provide the information about a lecture's theme, date, and etc. However, it's difficult to generate lecture posters automatically, since we need to keep the design of them *aesthetic* and *reasonable*. In this paper, we study on how to generate a lecture poster from a background image and a text set. What we mainly need to consider is how to find an appropriate place on the background for a given text. In our method, we design two neural networks to determine the importance of a place on the background image and its harmony with text. Our generator is to arrange all the texts in the appropriate place based on some design guidelines with help of the two networks. To train our model, we create two datasets from some background images and well-designed posters collected online. The final results of the quality inspection experiments of the posters we generated show that our method is effective.
 
 ### Author
 
@@ -15,39 +12,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Dataset
 
 ### Examples of results
-
-
-
-
-what am i writing?
-
-```markdown
-Syntax highlighted code block
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yydy94/Lecture_poster_generator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
