@@ -5,6 +5,8 @@ Lecture posters are often used to promote a lecture. They can provide the inform
 
 <center class="half">
     <img src="lyc.jpeg" width="200"/>
+    <img src="lhy.jpeg" width="200"/>
+    <img src="llx.jpeg" width="200"/>
 </center>
 
 ![lyc](lyc.jpeg "Yuncong Liu")![lhy](lhy.jpeg "Haoyu Ling")![llx](llx.jpeg "Luoxuan Li")
