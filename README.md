@@ -11,7 +11,7 @@ Lecture posters are often used to promote a lecture. They can provide the inform
 　　　　　　　Yuncong Liu　　　　　　　　Haoyu Ling　　　　　　　　　Luoxuan Li
 
 ### Code
-
+Our source code is available on [Github](https://github.com/yydy94/Lecture-poster-generator).
 ### Paper
 
 ### Video
