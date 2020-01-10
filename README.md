@@ -20,4 +20,4 @@ Our paper is available [here](https://github.com/yydy94/Lecture-poster-generator
 
 ### Examples of results
 <img style="margin: 0px 20px;" src="good_poster.jpg" width="200"/>
-<img style="margin: 0px 20px;" src="bac_poster.jpg" width="200"/>
+<img style="margin: 0px 20px;" src="bad_poster.jpg" width="200"/>
