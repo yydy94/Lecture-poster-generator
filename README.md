@@ -18,6 +18,4 @@ Our paper is available [here](https://github.com/yydy94/Lecture-poster-generator
 
 <iframe height="600" width="800" src="//player.bilibili.com/player.html?aid=82895086&cid=141817885&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-### Dataset
-
 ### Examples of results
